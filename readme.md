@@ -250,7 +250,9 @@ script
     --gnn_token_embedding_path ./dummy_data/token_net/embedding_0.tsv \
     --is_freeze_gnn_token_embedding False 
 
+#### Knowledge Distillation Model
 
+Please refer to the KD directory. 
     
 ### Experiment Environment
 
