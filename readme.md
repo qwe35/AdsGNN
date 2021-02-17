@@ -250,6 +250,10 @@ script
     --gnn_token_embedding_path ./dummy_data/token_net/embedding_0.tsv \
     --is_freeze_gnn_token_embedding False 
 
+#### AdsGNNt model
+Please refer to the token_model directory. 
+
+
 #### Knowledge Distillation Model
 
 Please refer to the KD directory. 
