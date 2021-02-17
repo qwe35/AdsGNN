@@ -251,7 +251,7 @@ script
     --is_freeze_gnn_token_embedding False 
 
 #### AdsGNNt model
-Please refer to the token_model directory. 
+Please refer to the model/tokenmodel directory. 
 
 
 #### Knowledge Distillation Model
